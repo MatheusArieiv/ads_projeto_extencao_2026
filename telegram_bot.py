@@ -8,7 +8,7 @@ from telegram.ext import Application, MessageHandler, filters, ContextTypes
 from interpretador import interpretar
 
 # define uma variável para o token telegram
-TOKEN_TELEGRAM = "***SEU TOKEN AQUI***"
+TOKEN_TELEGRAM = "cole_seu_token_aqui"
 
 reconhecedor = sr.Recognizer()
 
